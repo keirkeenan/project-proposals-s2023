@@ -1,10 +1,3 @@
-# Content Analyzer - Google Chrome Extension
+# Web Scraping - Python Library
 
-Extensions are software programs, built on web technologies (such as HTML, CSS, and JavaScript) that enable users to customize the Chrome browsing experience. I want to create a `Google Chrome extension` that provides analytics on the article or PDF document you are reading.
-
-## Possible Features
-
-- summarize content
-- display key terms
-- highlight key themes
-- score overall sentiment
+My goal is to make it easier for people to collect product data, and this Python library aims to simplify the web scraping process. With basic inputs like product information and store url, you can have easy access to rich product information.
